@@ -1,0 +1,28 @@
+{
+  "name": "lvendrame.com",
+  "version": "0.1.0",
+  "description": "My personal website and resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvendrame/lvendrame.com.git"
+  },
+  "keywords": [
+    "lvendrame"
+  ],
+  "author": "Luís Fernando Vendrame <lvendrame@gmail.com> (http://www.lvendrame.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lvendrame/lvendrame.com/issues"
+  },
+  "homepage": "https://github.com/lvendrame/lvendrame.com#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
