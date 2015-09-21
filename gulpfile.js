@@ -13,9 +13,9 @@ var paths = {
 };
 
 var dests = {
-    styles: './site/dest/styles',
-    scripts: './site/dest/scripts',
-    images: './site/dest/img'
+    styles: './site/build/styles',
+    scripts: './site/build/scripts',
+    images: './site/build/img'
 };
 
 gulp.task('styles', function () {
