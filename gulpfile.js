@@ -9,7 +9,7 @@ var minifyCss = require('gulp-minify-css');
 var paths = {
     styles: './site/styles/**/*.styl',
     scripts: './site/scripts/**/*.js',
-    images: './site/img/**/*.*'
+    images: './site/img/**/*'
 };
 
 var dests = {
